@@ -1,4 +1,4 @@
-# Tower-of-Hanoi-C-
+# Tower-of-Hanoi-C
 
 Tower of Hanoi is a puzzle game which consists of three towers, and a number of disks of different sizes which can slide onto any tower. 
 The puzzle starts with the disks in a neat stack in ascending order of size on one tower, the smallest at the top, thus making a conical 
